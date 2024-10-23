@@ -43,8 +43,8 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "", // Session id එක දාන්න " " ඕව මැදට creds.json දානව නම් ඕව වෙනස් කරන්න එපා...✓💚
-ALIVE_IMG : process.env.ALIVE_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
+SESSION_ID: process.env.SESSION_ID || "Manu-MD&TM8w2QQR#1o__gRg2QHpH9AZL544lb4E7h87VaOjmFwY4TLcZnz0", // Session id එක දාන්න " " ඕව මැදට creds.json දානව නම් ඕව වෙනස් කරන්න එපා...✓💚
+ALIVE_IMG : process.env.ALIVE_IMG || "‘අද රිදුනට මොකද, හෙට අපි දිනනවානෙ මැණික’ කියලා කියන්න කෙනෙක් නැති හැටි 🤧`",
 ALIVE_MSG : process.env.ALIVE_MSG || "Put your alive messege",
 MENU_IMG : process.env.MENU_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
 MODE : process.env.MODE || "public", // ඔයාට විතරක් වැඩ කරන්න් ඕනි නම් "private" දාන්න... හැමෝටම වැඩ කරන්න නම් "public" , ගෲප් වලට විතරක් ඕනි නම් "groups" දාන්න...✓💚 
