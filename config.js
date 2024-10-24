@@ -1,6 +1,6 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                    𝗠𝗔𝗡𝗨-𝗠𝗗  𝐁𝐎𝐓                                                 //
+//                                    𝗦𝗛𝗔𝗡𝗨-𝗠𝗗  𝐁𝐎𝐓                                                 //
 //                                                                                                      //
 //                                         Ｖ：7.0                                                       //
 
@@ -45,7 +45,7 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "Manu-MD&TM8w2QQR#1o__gRg2QHpH9AZL544lb4E7h87VaOjmFwY4TLcZnz0", // Session id එක දාන්න " " ඕව මැදට creds.json දානව නම් ඕව වෙනස් කරන්න එපා...✓💚
 ALIVE_IMG : process.env.ALIVE_IMG || "‘අද රිදුනට මොකද, හෙට අපි දිනනවානෙ මැණික’ කියලා කියන්න කෙනෙක් නැති හැටි 🤧`",
-ALIVE_MSG : process.env.ALIVE_MSG || "Put your alive messege",
+ALIVE_MSG : process.env.ALIVE_MSG || "*_~➸⃟̗̗̗̗̗̗̗̗̗̗̗̗̗̗̀̀̀̀̀̀̀̀̀̀̀̀̀🌺🍃ම͢ම⃝ 🍃හි͢ත͢ල⃝🍃ති͢යන්͢නෙ⃨⃝🍃අඩි͢ය➸⃟̀̀̀̀̀̀̀̀🍃උ͢බ⃝🍃හ͢ද͢ල⃝🍃ති͢බ්බ͢ට⃝🍃ප⃨ඩි⃨ය⃟̺̻̺̻🍃❯❱↯͢මර͢ණ͢ය...ɪ͢ꜱ...ʟoding 📌",
 MENU_IMG : process.env.MENU_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
 MODE : process.env.MODE || "public", // ඔයාට විතරක් වැඩ කරන්න් ඕනි නම් "private" දාන්න... හැමෝටම වැඩ කරන්න නම් "public" , ගෲප් වලට විතරක් ඕනි නම් "groups" දාන්න...✓💚 
 ANTI_PHOTO: process.env.ANTI_PHOTO || "false",  // පොටෝ දැම්මාම ඩිලීට් වෙන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
