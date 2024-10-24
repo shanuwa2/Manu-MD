@@ -20,10 +20,10 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
+//  * @project_name : shanu-MD
 //  * @author : shanuwa Official
 //  * @whatsapp  : https://whatsapp.com/channel/0029VaeKGfb2f3ERxuH60909
-//  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
+//  * @description : shanu-MD ,A Multi-functional whatsapp user bot.
 //*
 //*
 //base by shanu Official
